@@ -1,0 +1,17 @@
+{
+  "packageName": "Misc Drivers",
+  "author": "Ryan DeShone",
+  "version": "0.1",
+  "minimumHEVersion": "0.0",
+  "licenseFile": "https://github.com/ardichoke/Hubitat/blob/main/LICENSE",
+  "dateReleased": "2020-10-18",
+  "drivers": [
+    {
+      "id": "b367a126-b2ca-4b26-a922-6084b36e78b8",
+      "name": "Everspring On/Off Plug - AN186",
+      "namespace": "ardichoke",
+      "location": "https://raw.githubusercontent.com/ardichoke/Hubitat/main/Drivers/Everspring-AN186.groovy",
+      "required": false
+    }
+  ]
+}
