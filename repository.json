@@ -5,7 +5,7 @@
     {
       "name": "Hubitat Ring Integration (Unofficial)",
       "category": "Integrations",
-      "location": "https://raw.githubusercontent.com/ardichoke/hubitat_ring_integration/master/packageManifest.json",
+      "location": "https://raw.githubusercontent.com/HubitatCommunity/hubitat_ring_integration/master/packageManifest.json",
       "description": "Unofficial Ring integration for Hubitat",
       "id": "8d484da8-b7b1-4996-a52d-f8b5028aefa8"
     },
